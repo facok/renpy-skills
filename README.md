@@ -1,13 +1,32 @@
 # renpy-skills
 
-Experimental notes and guidelines for working with Ren'Py.
+Claude Code skills for Ren'Py visual novel development.
 
 ## Structure
 
-* `renpy-rpg.md` — RPG systems (stats, battles, progression, HUD)
-* `renpy-maps.md` — World navigation and location systems
-* `renpy-minigames.md` — Reusable minigame patterns and implementations
-* `renpy-screens.md` — Screen language, UI patterns, and components
+| Skill | File | Trigger |
+|---|---|---|
+| `renpy` | `skills/main-renpy-skill.md` | Core VN development (script, characters, branching, saves) |
+| `renpy-rpg` | `skills/renpy-rpg.md` | RPG systems (stats, battles, progression, HUD) |
+| `renpy-maps` | `skills/renpy-maps.md` | World navigation and location systems |
+| `renpy-minigames` | `skills/renpy-minigames.md` | Reusable minigame patterns and implementations |
+| `renpy-screens` | `skills/renpy-screens.md` | Screen language, UI patterns, and components |
+
+## Installation
+
+### Via CC Switch
+
+1. Open **CC Switch** → Skills → Add Repository
+2. Enter: `https://github.com/facok/renpy-skills`
+3. Install to **Claude Code**
+
+### Manual
+
+Clone to your Claude Code skills directory:
+
+```bash
+git clone https://github.com/facok/renpy-skills.git ~/.claude/skills/renpy-skills
+```
 
 ## Purpose
 
