@@ -1,3 +1,12 @@
+---
+name: renpy-screens
+description: >
+  Use when the user is working with Ren'Py Screen Language for complex UI.
+  Triggers include: custom menus, HUD overlays, inventory screens, dialogue box customization,
+  animated UI elements, modal dialogs, overlay screens, screen actions, transitions,
+  styles, or any advanced screen language work.
+---
+
 # Ren'Py Screen Language Deep-Dive Reference
 
 Use this for complex UI work: custom menus, HUDs, inventory screens, dialogue boxes, transitions.

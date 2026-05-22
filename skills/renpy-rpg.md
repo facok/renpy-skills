@@ -1,3 +1,12 @@
+---
+name: renpy-rpg
+description: >
+  Use when the user is adding or modifying RPG mechanics in a Ren'Py project.
+  Triggers include: stats, leveling, experience points, character attributes,
+  equipment system, inventory with stats, turn-based combat, skill trees,
+  skill checks in dialogue, or any RPG-like progression system.
+---
+
 # Ren'Py RPG Subsystem Reference
 
 Use this when the project includes stats, leveling, skills, equipment, or RPG-like progression.

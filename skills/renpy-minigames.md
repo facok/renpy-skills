@@ -1,3 +1,12 @@
+---
+name: renpy-minigames
+description: >
+  Use when the user wants to add, design, or debug an embedded minigame in a Ren'Py project.
+  Triggers include: puzzle mechanics, rhythm games, card games, typing challenges,
+  timed button prompts, match-3, sliding puzzles, or any interactive gameplay segment
+  inside a visual novel.
+---
+
 # Ren'Py Minigames Reference
 
 Use this when the project includes embedded minigames: puzzles, rhythm segments, card games, typing challenges, etc.

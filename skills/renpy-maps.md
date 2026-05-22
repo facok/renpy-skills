@@ -1,3 +1,12 @@
+---
+name: renpy-maps
+description: >
+  Use when the user is building or modifying a world map, location navigation,
+  travel system, area selection screen, or map-based exploration in a Ren'Py project.
+  Triggers include: world map, location picker, travel logic, map screen,
+  mini-map, area unlock conditions, or anything involving spatial navigation.
+---
+
 # Ren'Py Maps & World Navigation Reference
 
 Use this when the project has a world map, location selection screen, or area-based navigation.
