@@ -18,10 +18,10 @@ clean, readable script, reusable components, clear separation of concerns, and m
 
 **Default scope**: Visual Novel with dialogue, branching, characters, and saves.  
 **Extended scope**: See reference files when the project includes subsystems:
-- RPG/stats systems → `renpy-rpg.md`
-- Maps and world navigation → `renpy-maps.md`
-- Minigames → `renpy-minigames.md`
-- UI / Screen Language deep-dive → `renpy-screens.md`
+- RPG/stats systems → `../renpy-rpg/SKILL.md`
+- Maps and world navigation → `../renpy-maps/SKILL.md`
+- Minigames → `../renpy-minigames/SKILL.md`
+- UI / Screen Language deep-dive → `../renpy-screens/SKILL.md`
 
 ---
 
@@ -349,7 +349,7 @@ init python:
 
 ## 9. Screens (Overview)
 
-Define all screens in `screens/`. For deep screen language guidance, read `references/renpy-screens.md`.
+Define all screens in `screens/`. For deep screen language guidance, read `../renpy-screens/SKILL.md`.
 
 ```renpy
 # screens/hud.rpy — minimal example
@@ -492,9 +492,9 @@ When the project grows beyond core VN mechanics, read the relevant reference:
 
 | Feature | Reference File |
 |---|---|
-| RPG stats, leveling, skills | `renpy-rpg.md` |
-| World maps, location navigation | `renpy-maps.md` |
-| Minigames (puzzles, rhythm, etc.) | `renpy-minigames.md` |
-| Complex UI / Screen Language | `renpy-screens.md` |
+| RPG stats, leveling, skills | `../renpy-rpg/SKILL.md` |
+| World maps, location navigation | `../renpy-maps/SKILL.md` |
+| Minigames (puzzles, rhythm, etc.) | `../renpy-minigames/SKILL.md` |
+| Complex UI / Screen Language | `../renpy-screens/SKILL.md` |
 
 Each reference file is self-contained. Read only what the project needs.
