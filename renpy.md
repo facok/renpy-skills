@@ -18,10 +18,10 @@ clean, readable script, reusable components, clear separation of concerns, and m
 
 **Default scope**: Visual Novel with dialogue, branching, characters, and saves.  
 **Extended scope**: See reference files when the project includes subsystems:
-- RPG/stats systems → `skills/renpy-rpg.md`
-- Maps and world navigation → `skills/renpy-maps.md`
-- Minigames → `skills/renpy-minigames.md`
-- UI / Screen Language deep-dive → `skills/renpy-screens.md`
+- RPG/stats systems → `renpy-rpg.md`
+- Maps and world navigation → `renpy-maps.md`
+- Minigames → `renpy-minigames.md`
+- UI / Screen Language deep-dive → `renpy-screens.md`
 
 ---
 
@@ -492,9 +492,9 @@ When the project grows beyond core VN mechanics, read the relevant reference:
 
 | Feature | Reference File |
 |---|---|
-| RPG stats, leveling, skills | `skills/renpy-rpg.md` |
-| World maps, location navigation | `skills/renpy-maps.md` |
-| Minigames (puzzles, rhythm, etc.) | `skills/renpy-minigames.md` |
-| Complex UI / Screen Language | `skills/renpy-screens.md` |
+| RPG stats, leveling, skills | `renpy-rpg.md` |
+| World maps, location navigation | `renpy-maps.md` |
+| Minigames (puzzles, rhythm, etc.) | `renpy-minigames.md` |
+| Complex UI / Screen Language | `renpy-screens.md` |
 
 Each reference file is self-contained. Read only what the project needs.

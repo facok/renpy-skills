@@ -2,15 +2,15 @@
 
 Claude Code skills for Ren'Py visual novel development.
 
-## Structure
+## Skills
 
 | Skill | File | Trigger |
 |---|---|---|
-| `renpy` | `skills/main-renpy-skill.md` | Core VN development (script, characters, branching, saves) |
-| `renpy-rpg` | `skills/renpy-rpg.md` | RPG systems (stats, battles, progression, HUD) |
-| `renpy-maps` | `skills/renpy-maps.md` | World navigation and location systems |
-| `renpy-minigames` | `skills/renpy-minigames.md` | Reusable minigame patterns and implementations |
-| `renpy-screens` | `skills/renpy-screens.md` | Screen language, UI patterns, and components |
+| `renpy` | `renpy.md` | Core VN development (script, characters, branching, saves) |
+| `renpy-rpg` | `renpy-rpg.md` | RPG systems (stats, battles, progression, HUD) |
+| `renpy-maps` | `renpy-maps.md` | World navigation and location systems |
+| `renpy-minigames` | `renpy-minigames.md` | Reusable minigame patterns and implementations |
+| `renpy-screens` | `renpy-screens.md` | Screen language, UI patterns, and components |
 
 ## Installation
 
